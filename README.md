@@ -1,4 +1,5 @@
-# gulp-airship [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
+# gulp-airship [![Build status][travis-image]][travis-url]
+[//]: # ([![NPM version][npm-image]][npm-url])
 ### An Airship propeller development plugin for gulp
 
 ## Usage
