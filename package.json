@@ -1,0 +1,33 @@
+{
+  "name": "gulp-airship",
+  "version": "0.1.0",
+  "description": "An Airship propeller development plugin for gulp",
+  "dependencies": {
+    "through2": "^0.6.5"
+  },
+  "devDependencies": {
+    "event-stream": "^3.3.0",
+    "mocha": "^2.2.4",
+    "should": "^5.2.0",
+    "vinyl": "^0.4.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AirshipCMS/gulp-airship.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "airship"
+  ],
+  "author": "Jon Borgonia <jon@gomagames.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AirshipCMS/gulp-airship/issues"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
